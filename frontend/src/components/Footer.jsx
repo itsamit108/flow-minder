@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-lg-12 text-center">
                         <p className="mb-0">
-                            Task Manager App &copy; {new Date().getFullYear()}
+                            Flow Minder App &copy; {new Date().getFullYear()}
                         </p>
                     </div>
                 </div>
